@@ -1,4 +1,4 @@
-# 
+# secure NFT Scanner for nft flip bot | metadata-parsing & private-RPC-nodes offers the most advanced nft flip bot, with metadata-parsing and private-RPC-nodes. Ideal for
 
 
 
